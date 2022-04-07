@@ -2,7 +2,7 @@
   "name": "com.talus.talusplayservicesresolver",
   "version": "1.0.0",
   "displayName": "TalusPlayServicesResolver",
-  "description": "Packaged Facebook SDK.",
+  "description": "Packaged Player Services Resolver SDK.",
   "unity": "2020.3",
   "unityRelease": "9f1",
   "keywords": [
